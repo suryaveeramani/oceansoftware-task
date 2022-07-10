@@ -1,0 +1,70 @@
+.heading {
+  margin-bottom: 5px;
+  font-weight: 400px;
+  color: #36366c;
+}
+.split {
+  display: flex;
+  justify-content: space-between;
+}
+.fixedheight {
+  height: 150px;
+  overflow: auto;
+}
+.deleteButton {
+  position: absolute;
+  right: 5px;
+  bottom: 1px;
+  border: none;
+}
+.delete {
+  background: #b31313;
+  color: white;
+}
+.para {
+  padding: 10px;
+  width: 200px;
+}
+.buttonParent {
+  position: relative;
+}
+.buttonChild {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: none;
+  background: white;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.noData {
+  padding: 0 10px;
+  font-size: 16px;
+}
+.addContainer {
+  background: white;
+  border: none;
+}
+.add {
+  color: orange;
+  font-size: 40px !important;
+}
+.saveContainer {
+  text-align: center;
+  margin-top: 30px;
+}
+.save {
+  padding: 10px;
+  text-align: center;
+  width: 60%;
+  background: linear-gradient(to top, orange, rgb(233, 189, 107));
+  border: none;
+  font-weight: bold;
+  color: white;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
