@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oceansoftware-task/static/css/main.7c004d39.css",
+    "main.js": "/oceansoftware-task/static/js/main.3897a873.js",
+    "static/media/search.png": "/oceansoftware-task/static/media/search.cadee8cdb0c0afb1a713.png",
+    "static/media/logo.png": "/oceansoftware-task/static/media/logo.0a2c75bbe5276b48b30e.png",
+    "static/media/twitter.png": "/oceansoftware-task/static/media/twitter.894988327f8d68209e91.png",
+    "index.html": "/oceansoftware-task/index.html",
+    "main.7c004d39.css.map": "/oceansoftware-task/static/css/main.7c004d39.css.map",
+    "main.3897a873.js.map": "/oceansoftware-task/static/js/main.3897a873.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c004d39.css",
+    "static/js/main.3897a873.js"
+  ]
+}
